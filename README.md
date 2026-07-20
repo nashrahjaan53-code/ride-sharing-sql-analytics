@@ -74,6 +74,4 @@ This project goes beyond writing SELECT queries against a fixed dataset it demon
 
 ---
 
-## 🔗 Connect
 
-[LinkedIn](https://www.linkedin.com/in/nashrah-khan-82056b332)
